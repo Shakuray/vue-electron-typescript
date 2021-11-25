@@ -2,7 +2,6 @@
     <v-app>
         <v-main class="height:calc(100vh)">           
             <v-container fluid>
-                noseque
                 <router-view></router-view>
             </v-container>
         </v-main>
